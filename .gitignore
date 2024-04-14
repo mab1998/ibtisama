@@ -1,0 +1,36 @@
+# Compiled files 
+/vendor
+/node_modules
+/public/storage
+/public/hot
+
+# Environment files
+.env
+.env.backup
+.env.testing
+.env.production
+
+# Logs and caches
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/testing
+/storage/framework/views
+/bootstrap/cache
+
+# IDE and OS-specific files
+.idea
+*.sublime-project
+*.sublime-workspace
+.vscode
+.DS_Store
+Thumbs.db
+
+# Testing files
+/tests/Reports
+
+# Additional Laravel-specific items (optional)
+/public/css
+/public/js
+npm-debug.log
+yarn-error.log
