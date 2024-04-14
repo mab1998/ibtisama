@@ -11,12 +11,12 @@
 .env.production
 
 # Logs and caches
-/storage/logs
-/storage/framework/cache
-/storage/framework/sessions
-/storage/framework/testing
-/storage/framework/views
-/bootstrap/cache
+# /storage/logs
+# /storage/framework/cache
+# /storage/framework/sessions
+# /storage/framework/testing
+# /storage/framework/views
+# /bootstrap/cache
 
 # IDE and OS-specific files
 .idea
@@ -34,3 +34,4 @@ Thumbs.db
 /public/js
 npm-debug.log
 yarn-error.log
+ibtissama2.zip
