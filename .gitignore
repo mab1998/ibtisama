@@ -30,8 +30,8 @@ Thumbs.db
 /tests/Reports
 
 # Additional Laravel-specific items (optional)
-/public/css
-/public/js
+# /public/css
+# /public/js
 npm-debug.log
 yarn-error.log
 ibtissama2.zip
